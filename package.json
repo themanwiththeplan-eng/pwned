@@ -1,0 +1,21 @@
+{
+  "name": "enum-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Dakota Dunn",
+  "license": "MIT",
+  "bin": {
+    "enum": "./bin/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "yargs": "^17.3.1"
+  }
+}
