@@ -12,7 +12,7 @@
   "author": "Dakota Dunn",
   "license": "MIT",
   "bin": {
-    "enum": "./bin/index.js"
+    "pwnd": "./bin/index.js"
   },
   "dependencies": {
     "axios": "^0.25.0",
