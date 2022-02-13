@@ -9,7 +9,7 @@
   "keywords": [
     "cli"
   ],
-  "author": "Dakota Dunn",
+  "author": "Dakota Dunn github.com/themanwiththeplan-eng",
   "license": "MIT",
   "bin": {
     "pwnd": "./bin/index.js"
